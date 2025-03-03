@@ -34,7 +34,7 @@ Here are some of the best platforms to start learning:
 ## 🔥 Tips for Success
 ✅ Follow a structured roadmap and stick to one learning path at a time.
 ✅ Build real-world projects to reinforce your learning.
-✅ Join coding communities like **Reddit r/learnprogramming, Dev.to, and Discord groups**.
+✅ Join coding [communities](https://discord.gg/wGqvdmeb) .
 ✅ Stay consistent and keep practicing daily!
 
 ---
